@@ -2,10 +2,6 @@
 
 ### Full Stack Java Developer | Building Scalable Web Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-karagir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karagirdarshan1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
 ---
 
 ## 💼 About Me
@@ -31,26 +27,6 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### ⚽ Scout IQ - Football Scouting Platform
-**Spring Boot | React | PostgreSQL | Redis | AWS**
-
-- Built 20+ RESTful APIs and responsive dashboards
-- Improved API response time by 40% using Redis caching
-- Deployed on AWS EC2 with Nginx
-
-### 🚗 Urban Rides - Car Rental Platform
-**Spring Boot | React | MongoDB | JWT**
-
-- Automated booking engine with real-time inventory
-- Secured APIs with Spring Security & Role-Based Access
-- Optimized backend performance and testing
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=darshank-08&show_icons=true&theme=dark&hide_border=true)
@@ -58,14 +34,5 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 
 ---
 
-## 📫 Get in Touch
+💼 **Open to Full-Time/Internship Opportunities**
 
-💼 **Open to Full-Time Opportunities**
-
-📧 karagirdarshan1@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/darshan-karagir)  
-📱 +91 8149411406
-
----
-
-![](https://komarev.com/ghpvc/?username=darshank-08&color=blue&style=flat-square)

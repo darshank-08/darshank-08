@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Darshan Karagir 👋
 
 <!--
 **darshank-08/darshank-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Full Stack Java Developer | Building Scalable Web Applications

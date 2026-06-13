@@ -8,10 +8,10 @@
 
 Recent **BCA graduate** specializing in **Backend/Java Development**. I build production-ready REST APIs, responsive frontends, and deploy scalable applications on AWS.
 
-- 🔭 Working on full-stack projects with **Spring Boot** & **React**
-- 🌱 Learning **Microservices Architecture** & **Cloud Technologies**
-- 💡 Passionate about clean code, good at Data Structures & Algorithms and scalable system design
-- 📍 Based in India | Open to opportunities
+-  Working on full-stack projects with **Spring Boot** & **React**
+-  Learning **Microservices Architecture** & **Cloud Technologies**
+-  Passionate about clean code, good at Data Structures & Algorithms and scalable system design
+-  Based in India | Open to opportunities
 
 ---
 

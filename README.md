@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-Recent **BCA graduate** specializing in **Java Spring Boot** and **React.js**. I build production-ready REST APIs, responsive frontends, and deploy scalable applications on AWS.
+Recent **BCA graduate** specializing in **Backend/** and **Java Development**. I build production-ready REST APIs, responsive frontends, and deploy scalable applications on AWS.
 
 - 🔭 Working on full-stack projects with **Spring Boot** & **React**
 - 🌱 Learning **Microservices Architecture** & **Cloud Technologies**

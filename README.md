@@ -10,7 +10,7 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 
 - 🔭 Working on full-stack projects with **Spring Boot** & **React**
 - 🌱 Learning **Microservices Architecture** & **Cloud Technologies**
-- 💡 Passionate about clean code and scalable system design
+- 💡 Passionate about clean code, good at Data Structures & Algorithms and scalable system design
 - 📍 Based in India | Open to opportunities
 
 ---
@@ -27,12 +27,6 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=darshank-08&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=darshank-08&theme=dark&hide_border=true)
-
----
 
 💼 **Open to Full-Time/Internship Opportunities**
 

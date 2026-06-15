@@ -4,7 +4,7 @@
 
 ---
 
-## 💼 About Me
+##  About Me
 
 Recent **BCA graduate** specializing in **Backend/Java Development**. I build production-ready REST APIs, responsive frontends, and deploy scalable applications on AWS.
 
@@ -15,7 +15,7 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -28,5 +28,5 @@ Recent **BCA graduate** specializing in **Backend/Java Development**. I build pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-💼 **Open to Full-Time/Internship Opportunities**
+ **Open to Full-Time/Internship Opportunities**
 
